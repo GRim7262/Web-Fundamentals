@@ -1,0 +1,6 @@
+button {
+  all: unset;
+  background-color: revert;
+  border: revert;
+  padding: revert;
+}
