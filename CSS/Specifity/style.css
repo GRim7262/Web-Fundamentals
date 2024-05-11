@@ -1,13 +1,13 @@
-#header-id {
-  color: black;
-}
-
-.header {
+body .header {
   color: red;
 }
 
-h1 {
-  color: blue;
+#header-id {
+  color: cyan;
+}
+
+body #header-id {
+  color: black;
 }
 
 .text {
